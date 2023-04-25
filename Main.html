@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="g.css">
+    <link rel="icon" type="image/x-icon" href="Images/favicon.ico">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    <meta http-equiv="refresh" content="500">
+    <style>
+      body {
+
+        margin: 0;
+        text-decoration: none;
+        font-family: "Lato", sans-serif;
+      }
+      .image {
+        display: inline-block;
+      }
+      .newsbar{padding-top:10px!important;padding-bottom:10px!important;background-color: rgb(104, 0, 152);color:white;text-decoration:none;}
+      .newsbar-content{margin-left:auto;margin-right:auto;max-width: 1150px;text-align: center;}
+      .my-button {
+        background-color: #001eff; /* Green */
+        border: none;
+        color: rgb(0, 255, 26);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: xx-large;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <!--<div class="newsbar">
+    <div class="newsbar-content">
+      Percentage Calculator Out Now! <a style="font-size: large;color:white" href="#PercentageCalc">| here</a>
+    </div>
+  </div>-->
+  <div id="navigbar"></div>
+  <body>
+    <div style="overflow:auto;">
+      <div class="inlinetext-padding backImage1">
+        <div class="inlinetext-padding-content" style="color:white;font-size:xx-large">
+          <h2 style="color:rgb(48, 176, 255)">Northern Bus Simulator</h2>
+          <p style="background-color: rgba(1,1,1,0.2);">
+            Welcome to the official <b style="color:rgb(48, 176, 255)">Northern V2 Bus Simulator</b> Website!<br>
+            You can see whats new, events and more all at Northern here in this very location!
+          </p>
+          <table border="0" style="table-layout:fixed; margin-right: auto; margin-left:auto;width:100%">
+            <tr>
+              <td>
+                <button onclick="window.open('https:/\/www.roblox.com/games/11474331928/Northern-Bus-Simulator-V2')" class="my-button">Play Now!</button>
+              </td>
+            </tr>
+          </table>
+          <br>
+        </div>
+      </div>
+      <div id='WhatIsThis' class="inlinetext-padding sec1-colour">
+        <div class="inlinetext-padding-content">
+          <table style="margin-left: auto;margin-right: auto;" width="100%">
+            <tr>
+              <td width="20%">
+                <img src="Images/homepagesec1.png" height="250">
+              </td>
+              <td width="80%">
+                <h1>Northern Bus Simulator</h1>
+                <address style="font-family:'Times New Roman', Times, serif;">Hello!<br>
+                We are Lewis Transport Limited, a small fictional bus operator, operating local bus services on the roblox platform founded by LewisGaming_RBLX.<br>
+                We started operations on our first Roblox operation, Layfield, in August 2017 as free drive operator, and later expanded to other operations around 2018/2019.<br>
+                In around February 2020, this group was formed under different groups until we eventually transferred to the group we use today!<br>
+                Our CEO has worked in HR roles within other groups and uses his knowledge & mistakes, to keep this group going & improving every day!
+                </address>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div id='HelpWithRevision' class="inlinetext-padding sec2-colour">
+        <div class="inlinetext-padding-content">
+          <table style="margin-left: auto;margin-right: auto;" width="100%">
+            <tr>
+              <td width="80%">
+                <h1>"What the bus?"</h1>
+                <p style='font-family: Comic Sans MS;'>
+                You can drive the most magicalist and pristine buses that your imagination can think of from real life!<br>
+                Our Buses can take you anywhere, drive you anywhere and even whisk you away to another world!<br>
+                We cant wait to welcome you aboard
+                </p>
+              </td>
+              <td width="20%">
+                <img src="Images/homepagesec2.png" height="250">
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div id='HelpWithRevision' class="inlinetext-padding sec1-colour">
+        <div class="inlinetext-padding-content">
+          <table style="margin-left: auto;margin-right: auto;" width="100%">
+            <tr>
+              <td width="20%">
+                <img src="Images/homepagesec3.png" height="250">
+              </td>
+              <td width="80%">
+                <h1>Lost in the world of Northern Bus Simulator?</h1>
+                <p style='font-family: Comic Sans MS;'>
+                Well now you no longer are with the the maps provided in <a href="Northern/Maps.html">Maps</a>!
+                </p>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div id="News" class="inlinetext-padding sec2-colour">
+        <div class="inlinetext-padding-content">
+          <h2 style="text-align:center;color:white">
+            <u>
+              <b>News</b>
+            </u>
+          </h2>
+          <table style="margin-left:auto;margin-right:auto">
+            <tr>
+              <td>
+                <div class="news-card">
+                  <img src="Images/homepagesec1.png" style="width:100%;">
+                  <h2>
+                    Bus Website!
+                  </h2>
+                  <p>An example of a news card for the website<br><br></p>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <footer id="footer"></footer>
+    </div>
+    <script src="data.js"></script>
+    <script src="https://kit.fontawesome.com/b457945b5f.js" crossorigin="anonymous"></script>
+    <!--<button onclick="window.open('https:\/\/dsstlevel.github.io/Web/changelog.html','name','width=600,height=400')">Hi</button>
+onclick="window.open('https://youtube.com/changelog.html','name','width=1000,height=1000')"-->
+    <script>
+      var dropdown = document.getElementsByClassName("dropdown-btn"),
+        i;
+      for (i = 0; i < dropdown.length; i++) {
+        dropdown[i].addEventListener("click", function() {
+          this.classList.toggle("active");
+          var dropdownContent = this.nextElementSibling;
+          if (dropdownContent.style.display === "block") {
+            dropdownContent.style.display = "none";
+          } else {
+            dropdownContent.style.display = "block";
+          }
+        })
+      }
+    </script>
+  </body>
+</html>

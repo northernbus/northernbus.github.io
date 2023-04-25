@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="../g.css">
+    <link rel="icon" type="image/x-icon" href="Images/favicon.ico">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    <meta http-equiv="refresh" content="500">
+    <style>
+      body {
+        background-color:#A3C1FF;
+        margin: 0;
+        text-decoration: none;
+        font-family: "Lato", sans-serif;
+        color: black;
+        font-size: large
+      }
+      .image {
+        display: inline-block;
+      }
+    </style>
+  </head>
+  <div id="navigbar"></div>
+  <body>
+    <div style="overflow:auto;text-align: center;">
+    <h1>Maps</h1>
+        The following maps are bus stops, locations, roads and plannings of what to expect at Northern.<br>
+        Click the maps to open in fullscreen
+    <h3>Map with Location Pinpoints</h3>
+    <img src="../Images/map_with_icons.png" width="70%">
+    <h3>Basic Map</h3>
+    <a onclick="openFullscreen(this)"><img src="../Images/map.png" width="70%"></a>
+      <footer id="footer"></footer>
+    </div>
+    <script src="../data.js"></script>
+    <script src="https://kit.fontawesome.com/b457945b5f.js" crossorigin="anonymous"></script>
+    <script>
+        function openFullscreen(element) {
+            if (element.requestFullscreen) {
+                element.requestFullscreen();
+            } else if (element.webkitRequestFullscreen) {
+                element.webkitRequestFullscreen();
+            } else if (element.msRequestFullscreen) {
+                element.msRequestFullscreen();
+            }
+        }
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            const images = document.querySelectorAll('img');
+            images.forEach(img => {
+                img.addEventListener('click', () => {
+                    openFullscreen(img);
+                });
+            });
+        });
+        </script>
+  </body>
+</html>

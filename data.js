@@ -19,6 +19,9 @@ document.getElementById("navigbar").innerHTML = `
   <div class="nav_ul">
     <ul id="nav_ul">
     <li class="dropdown">
+    <a href="https://northernbus.github.io">Home</a>
+    </li>
+    <li class="dropdown">
     <a><i class="fa-solid fa-chevron-down"></i>Northern</a>
     <ul class="dropdown-content">
       <li class="dropdown-sub">

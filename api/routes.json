@@ -194,153 +194,177 @@
                 
                 {
                     "2": {
-                            "dest": "Park Sixteen - Wyton Park",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Weldon Tosce - Grenwell Gardens",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "5": {
-                            "dest": "Park Sixteen - Grimmlebury",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Redland - ASDO",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
+                            "circular": "No"
+                        }
+                },
+                {
+                    "6": {
+                            "dest": "Redland - ASDO 24hr",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "8": {
-                            "dest": "Bridgeford - Grimmblebury",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Westfield - Welton",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "10": {
-                            "dest": "Redland - Bridgeford",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Westfield Hospital - Everfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "11": {
-                            "dest": "Redland - Bridgeford",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Everfield - Westfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "12": {
-                            "dest": "",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Everfield - Westfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "14": {
-                            "dest": "Bridgeford - Wyton Park",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Wyton - Westfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "14A": {
-                            "dest": "Westfield",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Wyton - Westfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
                 },
                 {
                     "20": {
-                            "dest": "Westfield",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Redland - Everfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
                 },
                 {
                     "154": {
-                            "dest": "Kingswood Park - Limefield",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Weldon - Redland",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "154A": {
-                            "dest": "Wyton Park - Welton Village",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Weldon Tosce - Everfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "315": {
-                            "dest": "",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Everfield - Welton",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "317": {
-                            "dest": "Redland - Welton Village",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Ashwood Park - Westfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "576": {
-                            "dest": "Redland - Weldon",
-                            "operator":"Lewis Transport & Quickbus",
-                            "twitter":"@LewisGamingRBLX & @B7RLE_",
-                            "circular": "No"
+                            "dest": "Everfield Circular",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
+                            "circular": "Yes"
+                        }
+                },
+                {
+                    "607": {
+                            "dest": "Westfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
+                            "circular": "Yes"
+                        }
+                },
+                {
+                    "608": {
+                            "dest": "Westfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
+                            "circular": "Yes"
                         }
                 },
                 {
                     "799": {
-                            "dest": "Layfield LODIL - Redland",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Castlefield High School - Bridgeford",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "894": {
-                            "dest": "Ubuntown",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Wyton - Castlefield High School",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "H1": {
-                            "dest": "Westfield - Limefield",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Medical Centre Shuttle",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                         }
                 },
                 {
                     "X40": {
-                            "dest": "",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Welton - Layfield",
+                            "operator":"Quickbus & Lewis Transport",
+                            "twitter":"@B7RLE_ & @LewisGamingRBLX",
                             "circular": "No"
                         }
                 },
                 {
                     "X43": {
-                            "dest": "NaN",
-                            "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "dest": "Seafront - Westfield",
+                            "operator":"Quickbus",
+                            "twitter":"@B7RLE_",
                             "circular": "No"
                     }
                 }

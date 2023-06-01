@@ -25,7 +25,7 @@ document.getElementById("navigbar").innerHTML = `
     <a><i class="fa-solid fa-chevron-down"></i>Northern</a>
     <ul class="dropdown-content">
       <li class="dropdown-sub">
-        <a href="https://northernbus.github.io/Maps.html">Map</a>
+        <a href="https://northernbus.github.io/Northern/Maps.html">Map</a>
       <li class="dropdown-sub">
         <a href="Routes.html">Routes</a>
       <li class="dropdown-sub">
@@ -43,18 +43,3 @@ document.getElementById("navigbar").innerHTML = `
     </ul>
   </div>
   `
-
-document.getElementById('importantDates').innerHTML=["const dateRN=new Date().getDay()",
-"var x = setInterval(function() {var now = new Date().getTime();var countDownDate = new Date('Jun 14, 2023 13:00:00').getTime();var distance = countDownDate - now;var days = Math.floor(distance / (1000 * 60 * 60 * 24));var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));var seconds = Math.floor((distance % (1000 * 60)) / 1000);",
-"document.getElementById('paperA').innerHTML = `PaperA: ${days} Days, ${hours}:${minutes}:${seconds}`", "if (distance < 0) {clearInterval(x);document.getElementById('paperA').innerHTML = 'Exam has begun';}}, 1000);",
-"var x = setInterval(function() {var now = new Date().getTime();var countDownDate = new Date('Jun 21, 2023 13:00:00').getTime();var distance = countDownDate - now;var days = Math.floor(distance / (1000 * 60 * 60 * 24));var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));var seconds = Math.floor((distance % (1000 * 60)) / 1000);",
-"document.getElementById('paperB').innerHTML = `PaperB: ${days} Days, ${hours}:${minutes}:${seconds}`",
-"if (distance < 0) {clearInterval(x);document.getElementById('paperB').innerHTML = 'Exam has begun';}}, 1000);",
-"var x = setInterval(function() {var now = new Date().getTime();var countDownDate = new Date('May 08, 2023 9:00:00').getTime();var distance = countDownDate - now;var days = Math.floor(distance / (1000 * 60 * 60 * 24));var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));var seconds = Math.floor((distance % (1000 * 60)) / 1000);",
-"document.getElementById('ESP').innerHTML = `ESP: ${days} Days, ${hours}:${minutes}:${seconds}`",
-"if (distance < 0) {clearInterval(x);document.getElementById('ESP').innerHTML = 'ESP has begun';}}, 1000);",
-"var x = setInterval(function() {var now = new Date().getTime();var countDownDate = new Date('Mar 30, 2023 15:00:00').getTime();var distance = countDownDate - now;var days = Math.floor(distance / (1000 * 60 * 60 * 24));var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));var seconds = Math.floor((distance % (1000 * 60)) / 1000);",
-"document.getElementById('EoT').innerHTML = `End of Term: ${days} Days, ${hours}:${minutes}:${seconds}`}, 1000);",
-"var x = setInterval(function() {var now = new Date().getTime();var countDownDate = new Date('Apr 18, 2023 15:00:00').getTime();var distance = countDownDate - now;var days = Math.floor(distance / (1000 * 60 * 60 * 24));var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));var seconds = Math.floor((distance % (1000 * 60)) / 1000);",
-"document.getElementById('EoHT').innerHTML = `End of Half Term: ${days} Days, ${hours}:${minutes}:${seconds}`}, 1000);", "var x = setInterval(function() {var now = new Date().getTime();var countDownDate = new Date('Sep 09, 2023 11:00:00').getTime();var distance = countDownDate - now;var days = Math.floor(distance / (1000 * 60 * 60 * 24));var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));var seconds = Math.floor((distance % (1000 * 60)) / 1000);",
-"document.getElementById('training').innerHTML = `Training Round: ${days} Days, ${hours}:${minutes}:${seconds}`}, 1000);"].join('\n')

@@ -110,7 +110,7 @@
                 {
                     "154": {
                             "dest": "Redland - Weldon",
-                            "operator":"Lewis Transport & Quickbus",
+                            "operator":"Lewis Transport & NX",
                             "twitter":"@LewisGamingRBLX & @B7RLE_",
                             "circular": "No"
                         }
@@ -174,7 +174,7 @@
                 {
                     "X40": {
                             "dest": "Welton - Layfield",
-                            "operator":"Lewis Transport & Quickbus",
+                            "operator":"Lewis Transport & NX",
                             "twitter":"@LewisGamingRBLX & @B7RLE_",
                             "circular": "No"
                         }
@@ -190,12 +190,12 @@
             ]
         },
         {
-            "QB": [
+            "NX": [
                 
                 {
                     "2": {
                             "dest": "Weldon Tosce - Grenwell Gardens",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -203,7 +203,7 @@
                 {
                     "5": {
                             "dest": "Redland - ASDO",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -211,7 +211,7 @@
                 {
                     "6": {
                             "dest": "Redland - ASDO 24hr",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -219,7 +219,7 @@
                 {
                     "8": {
                             "dest": "Westfield - Welton",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -227,7 +227,7 @@
                 {
                     "10": {
                             "dest": "Westfield Hospital - Everfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -235,7 +235,7 @@
                 {
                     "11": {
                             "dest": "Everfield - Westfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -243,7 +243,7 @@
                 {
                     "12": {
                             "dest": "Everfield - Westfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -251,7 +251,7 @@
                 {
                     "14": {
                             "dest": "Wyton - Westfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -259,7 +259,7 @@
                 {
                     "14A": {
                             "dest": "Wyton - Westfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -267,7 +267,7 @@
                 {
                     "20": {
                             "dest": "Redland - Everfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -275,7 +275,7 @@
                 {
                     "154": {
                             "dest": "Weldon - Redland",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -283,7 +283,7 @@
                 {
                     "154A": {
                             "dest": "Weldon Tosce - Everfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -291,7 +291,7 @@
                 {
                     "315": {
                             "dest": "Everfield - Welton",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -299,7 +299,7 @@
                 {
                     "317": {
                             "dest": "Ashwood Park - Westfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -307,7 +307,7 @@
                 {
                     "576": {
                             "dest": "Everfield Circular",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -315,7 +315,7 @@
                 {
                     "607": {
                             "dest": "Westfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -323,7 +323,7 @@
                 {
                     "608": {
                             "dest": "Westfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -331,7 +331,7 @@
                 {
                     "799": {
                             "dest": "Castlefield High School - Bridgeford",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -339,7 +339,7 @@
                 {
                     "894": {
                             "dest": "Wyton - Castlefield High School",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -347,7 +347,7 @@
                 {
                     "H1": {
                             "dest": "Medical Centre Shuttle",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -355,7 +355,7 @@
                 {
                     "X40": {
                             "dest": "Welton - Layfield",
-                            "operator":"Quickbus & Lewis Transport",
+                            "operator":"NX & Lewis Transport",
                             "twitter":"@B7RLE_ & @LewisGamingRBLX",
                             "circular": "No"
                         }
@@ -363,7 +363,7 @@
                 {
                     "X43": {
                             "dest": "Seafront - Westfield",
-                            "operator":"Quickbus",
+                            "operator":"NX",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                     }

@@ -7,7 +7,7 @@
                     "3": {
                             "dest": "Park Sixteen - Wyton Park",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -15,7 +15,7 @@
                     "4": {
                             "dest": "Park Sixteen - Grimmlebury",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -23,7 +23,7 @@
                     "16": {
                             "dest": "Bridgeford - Grimmblebury",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -31,7 +31,7 @@
                     "17": {
                             "dest": "Redland - Bridgeford",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -39,7 +39,7 @@
                     "17A": {
                             "dest": "Redland - Bridgeford",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -47,7 +47,7 @@
                     "41": {
                             "dest": "",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -55,7 +55,7 @@
                     "46": {
                             "dest": "Bridgeford - Wyton Park",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -63,7 +63,7 @@
                     "52": {
                             "dest": "Westfield",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "Yes"
                         }
                 },
@@ -71,7 +71,7 @@
                     "53": {
                             "dest": "Westfield",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "Yes"
                         }
                 },
@@ -79,7 +79,7 @@
                     "78": {
                             "dest": "Kingswood Park - Limefield",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -87,7 +87,7 @@
                     "101": {
                             "dest": "Wyton Park - Welton Village",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -95,7 +95,7 @@
                     "129": {
                             "dest": "",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -103,15 +103,15 @@
                     "135": {
                             "dest": "Redland - Welton Village",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
                 {
                     "154": {
                             "dest": "Redland - Weldon",
-                            "operator":"Lewis Transport & NX",
-                            "twitter":"@LewisGamingRBLX & @B7RLE_",
+                            "operator":"Lewis Transport & National Express",
+                            "twitter":"@LDH_RBLX & @B7RLE_",
                             "circular": "No"
                         }
                 },
@@ -119,7 +119,7 @@
                     "163": {
                             "dest": "Layfield LODIL - Redland",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -127,7 +127,7 @@
                     "472": {
                             "dest": "Ubuntown",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -135,7 +135,7 @@
                     "494": {
                             "dest": "Westfield - Limefield",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -143,7 +143,7 @@
                     "819": {
                             "dest": "",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -151,7 +151,7 @@
                     "891": {
                             "dest": "NaN",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -159,7 +159,7 @@
                     "899": {
                             "dest": "Heywood Drive School  - Starlight Estate",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
@@ -167,15 +167,15 @@
                     "CC": {
                             "dest": "Seafront - Westfield",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 },
                 {
                     "X40": {
                             "dest": "Welton - Layfield",
-                            "operator":"Lewis Transport & NX",
-                            "twitter":"@LewisGamingRBLX & @B7RLE_",
+                            "operator":"Lewis Transport & National Express",
+                            "twitter":"@LDH_RBLX & @B7RLE_",
                             "circular": "No"
                         }
                 },
@@ -183,7 +183,7 @@
                     "TR": {
                             "dest": "Westfield - Welton Village",
                             "operator":"Lewis Transport",
-                            "twitter":"@LewisGamingRBLX",
+                            "twitter":"@LDH_RBLX",
                             "circular": "No"
                         }
                 }
@@ -195,7 +195,7 @@
                 {
                     "2": {
                             "dest": "Weldon Tosce - Grenwell Gardens",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -203,7 +203,7 @@
                 {
                     "5": {
                             "dest": "Redland - ASDO",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -211,7 +211,7 @@
                 {
                     "6": {
                             "dest": "Redland - ASDO 24hr",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -219,7 +219,7 @@
                 {
                     "8": {
                             "dest": "Westfield - Welton",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -227,7 +227,7 @@
                 {
                     "10": {
                             "dest": "Westfield Hospital - Everfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -235,7 +235,7 @@
                 {
                     "11": {
                             "dest": "Everfield - Westfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -243,7 +243,7 @@
                 {
                     "12": {
                             "dest": "Everfield - Westfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -251,7 +251,7 @@
                 {
                     "14": {
                             "dest": "Wyton - Westfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -259,7 +259,7 @@
                 {
                     "14A": {
                             "dest": "Wyton - Westfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -267,7 +267,7 @@
                 {
                     "20": {
                             "dest": "Redland - Everfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -275,7 +275,7 @@
                 {
                     "154": {
                             "dest": "Weldon - Redland",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -283,7 +283,7 @@
                 {
                     "154A": {
                             "dest": "Weldon Tosce - Everfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -291,7 +291,7 @@
                 {
                     "315": {
                             "dest": "Everfield - Welton",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -299,7 +299,7 @@
                 {
                     "317": {
                             "dest": "Ashwood Park - Westfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -307,7 +307,7 @@
                 {
                     "576": {
                             "dest": "Everfield Circular",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -315,7 +315,7 @@
                 {
                     "607": {
                             "dest": "Westfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -323,7 +323,7 @@
                 {
                     "608": {
                             "dest": "Westfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "Yes"
                         }
@@ -331,7 +331,7 @@
                 {
                     "799": {
                             "dest": "Castlefield High School - Bridgeford",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -339,7 +339,7 @@
                 {
                     "894": {
                             "dest": "Wyton - Castlefield High School",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -347,7 +347,7 @@
                 {
                     "H1": {
                             "dest": "Medical Centre Shuttle",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                         }
@@ -355,15 +355,15 @@
                 {
                     "X40": {
                             "dest": "Welton - Layfield",
-                            "operator":"NX & Lewis Transport",
-                            "twitter":"@B7RLE_ & @LewisGamingRBLX",
+                            "operator":"National Express & Lewis Transport",
+                            "twitter":"@B7RLE_ & @LDH_RBLX",
                             "circular": "No"
                         }
                 },
                 {
                     "X43": {
                             "dest": "Seafront - Westfield",
-                            "operator":"NX",
+                            "operator":"National Express",
                             "twitter":"@B7RLE_",
                             "circular": "No"
                     }

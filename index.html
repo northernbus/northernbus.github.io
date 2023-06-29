@@ -8,7 +8,7 @@
     <meta http-equiv="refresh" content="500">
     <style>
       body {
-
+        background-color: darkslategrey;
         margin: 0;
         text-decoration: none;
         font-family: "Lato", sans-serif;
@@ -30,6 +30,40 @@
         margin: 4px 2px;
         cursor: pointer;
         border-radius: 10px;
+      }
+
+      .onion {
+          width: 480px;
+          background-color: #1c5f7e;
+          margin: 12px 0;
+          padding: 24px;
+          text-align: center;
+          box-shadow: 2px 2px 8px 2px #386176;
+          margin-left: auto;
+          margin-right: auto;
+          color:white;
+      }
+      
+      input[type=number] {
+          width:75%;
+          font-size: 18px;
+          background-color: rgba(0, 0, 0, 0);
+          border-color:white
+      }
+      input[type=text] {
+          width:fit-content;
+          font-size: 18px;
+          background-color: rgba(0, 0, 0, 0);
+          border-color:greenyellow;
+      }
+
+      .calculate {
+          width: 50%;
+          background-color: #c1d9e4;
+          text-align: center;
+          box-shadow: 2px 2px 8px 2px #1e1e22;
+
+          color:rgb(0, 0, 0)
       }
     </style>
   </head>
@@ -57,6 +91,28 @@
           </table>
           <br>
         </div>
+      </div>
+      <div id="PercentageCalc" class="onion">
+        <h2>
+            <table>
+            <tr style="margin-left:auto;margin-right: auto;">MPH</tr><br>
+            <input type="number" id="num1" style="color:white">
+            </table>
+        </h2>
+        <button onclick="percentage_1()" class="calculate">Calculate</button>
+        <br><br>
+        SPS: <input type="text" id="value1" readonly style="color:white">
+      </div>
+      <div id="PercentageCalc" class="onion">
+        <h2>
+            <table>
+            <tr style="margin-left:auto;margin-right: auto;">SPS</tr><br>
+            <input type="number" id="num2" style="color:white">
+            </table>
+        </h2>
+        <button onclick="percentage_2()" class="calculate">Calculate</button>
+        <br><br>
+        MPH: <input type="text" id="value2" readonly style="color:white">
       </div>
       <div id='WhatIsThis' class="inlinetext-padding sec1-colour">
         <div class="inlinetext-padding-content">
@@ -143,6 +199,30 @@
     <!--<button onclick="window.open('https:\/\/dsstlevel.github.io/Web/changelog.html','name','width=600,height=400')">Hi</button>
 onclick="window.open('https://youtube.com/changelog.html','name','width=1000,height=1000')"-->
     <script>
+      document.getElementById("num1").addEventListener("keypress", function(event) {
+        if (event.key=="Enter") {
+          percentage_1()
+        }
+      })
+      document.getElementById("num2").addEventListener("keypress", function(event) {
+        if (event.key=="Enter") {
+          percentage_2()
+        }
+      })
+      function percentage_1() {
+          const num1 = document.getElementById("num1").value;
+          const output=document.getElementById("value1");
+          let result = (1609.344 * 3.571 * num1) / 3600;
+          result = result.toFixed();
+          output.value=`${result}`;
+      }
+      function percentage_2() {
+        const num2 = document.getElementById("num2").value;
+        const output = document.getElementById("value2");
+        let result = num2 / 1609.344 / 3.571 * 3600;
+        result = result.toFixed();
+        output.value = result;
+      }
       var dropdown = document.getElementsByClassName("dropdown-btn"),
         i;
       for (i = 0; i < dropdown.length; i++) {
